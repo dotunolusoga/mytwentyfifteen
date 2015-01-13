@@ -34,3 +34,12 @@ h1 {
 	text-align: center;
 	padding-left: 0;
 }
+
+.sidebar_nav ul {
+	padding: 0;
+}
+
+.sidebar_nav li {
+	list-style-type: none;
+	border-bottom: 1px solid #888;
+}
